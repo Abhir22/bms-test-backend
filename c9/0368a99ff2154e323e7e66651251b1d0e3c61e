@@ -1,0 +1,20 @@
+.gitignore
+  h_bc4a2c4f906a4d 1
+package-lock.json
+  h_bc4a2c4f906a4d 1-794
+package.json
+  h_bc4a2c4f906a4d 1-15
+server.js
+  h_bc4a2c4f906a4d 1-53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c90368a99ff2154e323e7e66651251b1d0e3c61e",
+  "prompts": {},
+  "humans": {
+    "h_bc4a2c4f906a4d": {
+      "author": "Abhir22 <abhiranand22@gmail.com>"
+    }
+  }
+}
